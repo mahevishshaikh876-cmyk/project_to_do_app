@@ -1,4 +1,4 @@
-![homepage screenshot](./Screenshots/homepage.png)
-![login screenshot](./Screenshots/login.png)
-![register screenshot](./Screenshots/register.png)
-![dashboard screenshot](./Screenshots/dashboard.png)
+![homepage screenshot](./Screenshots/hm.png)
+![login screenshot](./Screenshots/lg.png)
+![register screenshot](./Screenshots/reg.png)
+![dashboard screenshot](./Screenshots/db.png)
